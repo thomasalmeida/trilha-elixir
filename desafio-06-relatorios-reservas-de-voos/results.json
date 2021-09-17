@@ -1,0 +1,15 @@
+{
+  "excluded": [],
+  "failed": [],
+  "invalid": [],
+  "passed": [
+    {
+      "describe": "generate/1",
+      "file": "/home/thomas/workspace/trilha-elixir/desafio-06-relatorios-reservas-de-voos/test/bookings/report_test.exs",
+      "line": 15,
+      "module": "Elixir.Flightex.Bookings.ReportTest",
+      "test": "test generate/1 when called, return the content"
+    }
+  ],
+  "skiped": []
+}
